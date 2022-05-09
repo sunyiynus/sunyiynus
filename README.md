@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[中文](https://github.com/sunyiynus/sunyiynus/blob/main/README.md)
+[中文](https://github.com/sunyiynus/sunyiynus/blob/main/zh.md)
 - 🔭 I’m Working on C/C++ linux client Development && QT GUI
 - 🌱 I’m currently learning C++/Rust/linux kernel
 - 💬 Ask me about c++, I'm big fans of it.
