@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m Working on C/C++ linux client Development
-- 🌱 I’m currently learning C++/Rust/server/linux kernel/HPC
-- 💬 Ask me about c++
+- 🔭 I’m Working on C/C++ linux client Development && QT GUI
+- 🌱 I’m currently learning C++/Rust/linux kernel
+- 💬 Ask me about c++, I'm big fans of it.
 - 📫 How to reach me: iuamyy@163.com
 - 😄 Pronouns: uttep
-- ⚡ Fun fact: Don't look, just send me a email to ask help.
