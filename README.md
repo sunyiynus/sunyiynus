@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[中文](https://github.com/sunyiynus/sunyiynus/blob/main/zh.md)
-- 🔭 I’m Working on C/C++ linux client Development && QT GUI
-- 🌱 I’m currently learning C++/Rust/linux kernel
-- 💬 Ask me about c++, I'm big fans of it.
-- 📫 How to reach me: iuamyy@163.com
-- 😄 Pronouns: uttep
+[English](https://github.com/sunyiynus/sunyiynus/blob/main/zh.md)
+- 🔭 我工作的内容：C/C++ linux client Development && QT GUI
+- 🌱 现在正在学：C++/Rust/linux kernel
+- 💬 热爱C/CPP
+- 📫 如何联系我: iuamyy@163.com
+- 😄 绰号: uttep
