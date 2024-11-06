@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 💬 热爱C/CPP
 - 📫 如何联系我: iuamyy@163.com
 - 😄 绰号: uttep
-- 正在鼓捣的项目：[todd](https://github.com/sunyiynus/todd) , [crafting interpreter](https://github.com/sunyiynus/craftinginterpreters)
+- 正在鼓捣的项目：[todd](https://github.com/sunyiynus/todd) , [crafting interpreter](https://github.com/sunyiynus/loxxcc)
