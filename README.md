@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 [English](https://github.com/sunyiynus/sunyiynus/blob/main/zh.md)
 - 🔭 我工作的内容：C/C++ linux client Development && QT GUI
-- 🌱 现在正在学：C++/Rust/linux kernel
+- 🌱 现在正在学：C++/Rust/linux kernel/Compiler/IC
 - 💬 热爱C/CPP
 - 📫 如何联系我: iuamyy@163.com
-- 😄 绰号: uttep
+- 😄 网名: 农场主
 - 正在鼓捣的项目：[todd](https://github.com/sunyiynus/todd) , [loxxcc](https://github.com/sunyiynus/loxxcc)
